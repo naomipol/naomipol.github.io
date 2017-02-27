@@ -11,7 +11,7 @@ startForm(formName, updateFormCallback, messagesCallback).then(function(form) {
     });
 ```
 
-###Prameters:
+##Prameters
 
 | Param        | Type           | Descripiton  |
 | :------------|:---------------| :----------- |
@@ -60,7 +60,7 @@ This callback provides a [`ServerMessage`](/#servermessage) Object. Mainly an er
 See [`ServerMessage`](/#servermessage) for a detailed explenation of the different messages types.
 
 
-###Example
+##Example
 ```javascript
 
 var customersForm;
